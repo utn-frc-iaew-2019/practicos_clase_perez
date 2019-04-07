@@ -1,0 +1,30 @@
+{
+  "id": 69602,
+  "name": "Juan Francisco",
+  "surname": "Perez Pinelli",
+  "careers": [
+    {
+      "id": 5789,
+      "name": "Ingeniería en Sistemas de Información",
+      "startDate": "20150101",
+      "cathedras": [
+        {
+          "id": 783204,
+          "name": "Sistemas y Organizaciones",
+          "cycle": "2015/01",
+          "status": "Aprobada",
+          "inProgress": false,
+          "grade": 9.0
+        },
+        {
+          "id": 783207,
+          "name": "Probabilidad y Estadística",
+          "cycle": "2016/02",
+          "inProgress": false,
+          "status": "Regular",
+          "grade": null
+        }
+      ]
+    }
+  ]
+}
